@@ -1,9 +1,9 @@
 ### Olá, mundo! Eu sou Mario Almeida 🍃
 
 
-- 🔭 Hoje trabalho com Front-end.
+- 🔭 Hoje trabalho com Front-end e Marketing digital.
 - 🌱 Estudando Javascript e Nodejs
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 - ⚡ Fun fact: Sou fã do programador Alan Kay, um biólogo(como eu) que teve papel importante para o mundo da programação.
 
 <div align="center">
