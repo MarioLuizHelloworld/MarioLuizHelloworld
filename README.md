@@ -3,7 +3,6 @@
 
 - 🔭 Hoje trabalho com Front-end e Marketing digital.
 - 🌱 Estudando Javascript e Nodejs
-- 😄 Pronomes: ele/dele
 - ⚡ Fun fact: Sou fã do programador Alan Kay, um biólogo(como eu) que teve papel importante para o mundo da programação.
 
 <div align="center">
